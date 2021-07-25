@@ -1,0 +1,52 @@
+
+body h1{
+    color: tomato;
+    font-weight: bold;
+    font-style: italic;
+}
+.subject h2 {
+    color: grey;
+}
+.subject{
+    padding-top: 10%;
+    padding-left: 15%;
+    font-style: normal;
+}
+.subject h5 {
+    font-weight: bold;
+}
+
+#ad{
+    color: white;
+    font-weight: bold;
+    padding-top: 7px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    text-align: center;
+    width: 70%;
+}
+
+.form{
+    margin: auto;
+    max-width: 100%;
+}
+input[type='submit'], button,[aria-label]
+{
+    cursor:pointer;
+}
+
+#edit-box{
+    display:none; 
+    max-width: 80%;
+    margin: auto;
+    margin-top: 10px;
+}
+
+td{
+    background-color: aliceblue;
+    text-align: right;
+}
+.to-do{
+    background: transparent !important;
+    padding-left: 100px;
+}
